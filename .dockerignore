@@ -4,3 +4,7 @@
 *
 !exports/
 exports/_*.log
+!app/
+!app/**
+!pyproject.toml
+!uv.lock
